@@ -1,6 +1,6 @@
 [submodule "CPP_STUDY_mem"]
 	path = CPP_STUDY_mem
-	url = git@github.com:set0xc3/CPP_STUDY_mem.git
+	url = https://github.com/set0xc3/CPP_STUDY_mem.git
 [submodule "CPP_SOFT_notes"]
 	path = CPP_SOFT_notes
-	url = git@github.com:set0xc3/CPP_SOFT_notes.git
+	url = https://github.com/set0xc3/CPP_SOFT_notes.git
