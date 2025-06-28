@@ -4,3 +4,6 @@
 [submodule "CPP_SOFT_notes"]
 	path = CPP_SOFT_notes
 	url = https://github.com/set0xc3/CPP_SOFT_notes.git
+[submodule "CPP_TEMPLATE_app"]
+	path = CPP_TEMPLATE_app
+	url = https://github.com/set0xc3/CPP_TEMPLATE_app.git
